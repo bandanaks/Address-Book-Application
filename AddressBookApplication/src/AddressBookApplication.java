@@ -27,8 +27,6 @@ public class AddressBookApplication {
 		{	
 			choice = sc.next();
 			
-			// to launch the GUI window
-			JunkGUI.main(args);
 			
 			switch(choice) {
 				case "A":
